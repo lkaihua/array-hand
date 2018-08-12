@@ -1,0 +1,23 @@
+{
+  "name": "array-hand",
+  "version": "0.0.1",
+  "description": "an ultimate array toolkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lkaihua/array-hand.git"
+  },
+  "keywords": [
+    "array"
+  ],
+  "author": "Kaihua Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lkaihua/array-hand/issues"
+  },
+  "homepage": "https://github.com/lkaihua/array-hand#readme",
+  "dependencies": {}
+}
