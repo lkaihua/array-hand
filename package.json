@@ -4,7 +4,7 @@
   "description": "an ultimate array toolkit",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
     "url": "https://github.com/lkaihua/array-hand/issues"
   },
   "homepage": "https://github.com/lkaihua/array-hand#readme",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
 }
